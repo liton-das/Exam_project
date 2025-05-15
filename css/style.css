@@ -144,8 +144,8 @@ img{
 }
 .hero_position{
     position: absolute;
-    top: 70%;
-    left: 20%;
+    bottom: 8%;
+    left: 10%;
 }
 .icons ul{
     display: flex;
