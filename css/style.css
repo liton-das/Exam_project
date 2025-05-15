@@ -1,0 +1,125 @@
+/* --------------- google font link ----------------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+/* --------------- Universe selector start----------------- */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* --------------- Universe selector end ----------------- */
+/* --------------- common css start----------------- */
+ul,ol{
+    margin:0;
+    padding: 0;
+    list-style: none;
+}
+h1,h2,h3,h4,h5,h6,p{
+    margin: 0;
+}
+a{
+    text-decoration: none;
+    display: inline-block;
+}
+img{
+    width: 100%;
+    max-width: 100%;
+    vertical-align: middle;
+}
+:root{
+    --inter: "Inter", sans-serif;
+    --primary_color:#FFFFFF
+}
+/* --------------- common css end ----------------- */
+/* --------------- navbar css start----------------- */
+.navbar{
+    background: #243034;
+
+}
+.my_nav{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 623px;
+}
+.my_nav img{
+    width: 130px;
+}
+.my_nav ul li a{
+    font-family: var(--inter);
+    font-size: 16px;
+    font-weight: 600;
+    color: var(--primary_color);
+}
+/* --------------- navbar css end ----------------- */
+/* --------------- hero css start----------------- */
+#main_hero{
+    padding-top: 196px;
+    padding-bottom: 185px;
+    background: #243034;
+}
+.hero_text{
+    width: 524px;
+}
+.hero_text h2{
+    font-family: var(--inter);
+    font-size: 48px;
+    font-weight: 600;
+    color: #00B9D4;
+}
+.hero_text h3{
+    font-family: var(--inter);
+    font-size: 155px;
+    font-weight: 600;
+    color: #fff;
+}
+.hero_text p{
+    width: 514px;
+    font-family: var(--inter);
+    font-size: 18px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 46px;
+}
+.hero_text a{
+    width: 455px;
+    height: 85px;
+    font-family: var(--inter);
+    font-size: 24px;
+    font-weight: 600;
+    border-radius: 10px;
+    background:#009EB5;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    margin-bottom: 119px;
+}
+
+.hero_img img{
+    width: 1127px;
+}
+
+
+
+/* --------------- hero css end ----------------- */
+/* --------------- common css start----------------- */
+
+
+/* --------------- common css end ----------------- */
+/* --------------- common css start----------------- */
+
+
+/* --------------- common css end ----------------- */
+/* --------------- common css start----------------- */
+
+
+/* --------------- common css end ----------------- */
+/* --------------- common css start----------------- */
+
+
+/* --------------- common css end ----------------- */
+/* --------------- common css start----------------- */
+
+
+/* --------------- common css end ----------------- */
